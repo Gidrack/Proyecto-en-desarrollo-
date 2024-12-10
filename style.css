@@ -1,0 +1,14 @@
+div{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNECR6xUMLQR750xL-40QYDC8byXAa1ghhw&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button:first-child{
+    background-color: black;
+    color: white;
+}
+body{
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3FofTuNcJPezLmRBhMloYA9DK2ZwfO3TOQ&s);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
